@@ -22,7 +22,7 @@ tasa de interes del 6% anual, compuesta mensualmente ¿Cual el valor futuro de e
 
 $A$ = Anualidad
 $t$ = Tiempo del periodo
-$r% = Tasa de interes
+$r$ = Tasa de interes
 $VF$ = Valor final
 
 Se toman los valores y se hacen las respectivas conversiones para realizar los calculos y saber el valor futuro de la inversion
@@ -75,7 +75,7 @@ del 14% anual, compuesta trimestralmente ¿Cuál es el valor actual de la invers
 
 $A$ = Anualidad
 $t$ = Tiempo del periodo
-$r% = Tasa de interes
+$r$ = Tasa de interes
 $VA$ = Valor actual
 
 Se toman los valores y se hacen las respectivas conversiones para realizar los calculos y saber el valor actual de la inversion
