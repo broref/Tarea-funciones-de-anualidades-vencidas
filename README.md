@@ -15,7 +15,8 @@ $VF = A*((1+r)^(t)-1)/r$
 
 Para ejemplificar la formula de anualidades vencidas se tomara uno de los ejercicios vistos en clase.
 ```
-Un inversionista realiza un pago mensual de $1200 al final de cada mes durante 5 años en una anualidad vencida que paga una tasa de interes del 6% anual, compuesta mensualmente ¿Cual el valor futuro de esa inversion
+Un inversionista realiza un pago mensual de $1200 al final de cada mes durante 5 años en una anualidad vencida que paga una
+tasa de interes del 6% anual, compuesta mensualmente ¿Cual el valor futuro de esa inversion
 ```
 ### Significado de los valores
 
@@ -67,7 +68,8 @@ $VA = A*(1-(1+r)^(-t))/r$
 
 Para la formula en la que se saca el valor actual se utiliza el siguiente ejmplo del libro de Hector Manuel Vidaurri Aguirre.
 ```
-Un inversionista realiza un pago de $10,000 en una cuenta al final de cada trimestre durante 4 años si la tasa de interes es del 14% anual, compuesta trimestralmente ¿Cuál es el valor actual de la inversion?
+Un inversionista realiza un pago de $10,000 en una cuenta al final de cada trimestre durante 4 años si la tasa de interes es
+del 14% anual, compuesta trimestralmente ¿Cuál es el valor actual de la inversion?
 ```
 ### Significado de los valores
 
