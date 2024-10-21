@@ -12,5 +12,8 @@ A continuacion se dan los ejemplos en los cuales estan basados los datos para la
 
 Para ejemplificar la formula de anualidades vencidas se tomara uno de los ejercicios vistos en clase.
 ```
-Un inversionista realiza un pago mensual de $1200 al final de cada mes durante 5 años en una anualidad vencida que paga una tasa de interes del 6% anual, compuesta mensualmente ¿Cual el valor futuro de esa inversion
+Un inversionista realiza un pago mensual de $1200 al final de cada mes durante 5 años en una anualidad
+vencida que paga una tasa de interes del 6% anual, compuesta mensualmente ¿Cual el valor futuro de esa
+inversion
 ```
+Se toman los valores y se hacen las respectivas conversiones para realizar los calculos y saber el valor futuro de la inversion
