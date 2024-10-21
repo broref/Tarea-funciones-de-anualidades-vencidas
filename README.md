@@ -1,7 +1,7 @@
 # Tarea-funciones-de-anualidades-vencidas
 En este repositorio se sube la tarea sobre anualidades vencidas
 
-Con el siguiente codigo, usted puede cargar las funciones para los distintos calculos de anualidad vencida en su worspace de posit cloud
+Con el siguiente codigo, usted puede cargar las funciones para los distintos calculos de anualidad vencida en su workspace de posit cloud
 ```
 source("https://raw.githubusercontent.com/broref/Tarea-funciones-de-anualidades-vencidas/refs/heads/main/Anualidades%20vencidas.R")
 ```
